@@ -59,4 +59,4 @@ Once again the dictionary was used and manually searched through to find the bes
 
 Once the chosen algorithm finds the solution, the application displays the number of steps taken and then directs the user to solve it. The next step is displayed on the board. It is assumed that the user will correctly take the step. After each step the user takes, the next step is shown until the board is solved. This way, the user can verify the correctness of the algorithm. I would advice not trying to solve the DFS solution, unless you have nothing else to do for a few hours.
 
-##Enjoy
+##MadebyMuhammadSharjil
